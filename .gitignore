@@ -1,0 +1,8 @@
+Homestead.yaml
+.env
+.DS_Store
+*/.DS_Store
+/vendor
+/uploads
+composer.phar
+node_modules
